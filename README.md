@@ -1,5 +1,7 @@
 # 📊 SQL Mentor – Daily SQL Challenge (Real Dataset Analysis)
 
+![image alt](https://github.com/deeep0n/sql_bot_dataset/blob/f51926e808fb8dc2e78548af1e2952619ceb8382/Unknown-5.jpg)
+
 This repository contains a **SQL analysis practice project** built using a **real dataset** derived from the **SQL Mentor – Daily SQL Challenge** conducted by **Zero Analyst** on Discord.
 
 > ⚠️ **Disclaimer**
